@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently pursuing engineering 3rd year
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through mymail
+- 📫 how to reach me: through mymail
 
 <!---
 karthikkaranki/karthikkaranki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
